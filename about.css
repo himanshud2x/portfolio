@@ -1,0 +1,35 @@
+body {
+    background-image: url(intro.jpg);
+    background-color: rgb(10, 9, 10);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .highlight {
+    color: rgb(198, 15, 15);
+    font-weight: bold;
+  }
+
+  .heading {
+    margin: 27px 375px 39px;
+    background-color: #f000005c;
+    color: white;
+    text-align: center;
+    font: bolder;
+  }
+
+  .introduction {
+    /* background-color: rgb(236, 242, 47);*/
+
+    border-color: rgb(17, 233, 204);
+    margin: -22px 948px 36px 0px;
+    font-size: 35px;
+  }
+
+  .exeperience {
+    /*background-color: rgb(69, 255, 220);*/
+    margin-left: 1166px;
+    margin-top: -663px;
+    font-size: 28px;
+  }

@@ -1,0 +1,30 @@
+  /* adding style for navigation tab*/
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(249, 240, 102);
+    color: white;
+  }
+  /*adding style to navigation anchors and giving margin and padding */
+  .topnav a {
+    float: left;
+    color: #141212;
+    text-align: center;
+    padding: 14px 16px;
+    margin-right: 40px;
+    text-decoration: none;
+    font-size: 17px;
+    font-size: large;
+    font-weight:bold ;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    font-size: medium;
+  }
+  
+  .topnav a.active {
+    background-color: #ca5e5e;
+    color: rgb(10, 8, 8);
+    font-size: x-large;
+  }

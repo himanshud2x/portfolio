@@ -1,0 +1,11 @@
+ /*adding style to body using css in body content of index page*/
+ body { background-image: url(main.jpg);
+    background-color: aqua;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 2px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: aqua;   
+    background-size: 1530px 718px
+  }

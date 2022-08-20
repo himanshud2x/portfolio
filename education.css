@@ -1,0 +1,18 @@
+body {
+    background-image: url(edu.jpg);
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  .education {
+    color: rgb(96, 245, 232);
+  }
+  .table table {
+    background-color: antiquewhite;
+    margin-left: auto;
+    margin-top: -603px;
+    font-size: 29px;
+    color: black;
+  }

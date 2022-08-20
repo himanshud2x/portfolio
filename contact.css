@@ -1,0 +1,19 @@
+body {
+    background-image: url(thanks1.jpg);
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgb(4, 7, 7);
+    background-size: 1530px 718px;
+  }
+  p {
+    border: 4px solid black;
+    width: 25cm;
+  }
+
+  .form {
+    font-size: 20px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: 820px;
+  }
